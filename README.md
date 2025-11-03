@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Student at **Cantt. Public Degree College**
+- 🎓 Computer Science Student at **Pioneer Public College**
 - 🌐 Certified in Full Stack Web Development (Aptech, 2024)
 - 🐍 Certified in Python for Data Analysis (Google, 2025)
 - 👨‍💻 Currently building **full-stack web apps** and **interactive dashboards**
